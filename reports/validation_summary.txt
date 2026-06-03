@@ -1,0 +1,20 @@
+RECTIFIER VALIDATION SUMMARY
+==================================================
+
+Maximum Efficiency : 97.96%
+Minimum Efficiency : 94.76%
+Average Efficiency : 95.37%
+
+Maximum Output Power : 27.03 kW
+Average Output Power : 25.42 kW
+
+Maximum Temperature : 39.80 °C
+Average Temperature : 38.57 °C
+
+Average Output Voltage : 698.82 V
+
+TEST EVALUATION
+==================================================
+Efficiency : PASS
+Temperature : PASS
+Overall Result : PASS

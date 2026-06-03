@@ -1,0 +1,7 @@
+OBSERVATIONS
+==================================================
+
+Maximum efficiency observed: 97.96%
+Average efficiency observed: 95.37%
+Maximum output power: 27.03 kW
+Maximum temperature: 39.80 °C
